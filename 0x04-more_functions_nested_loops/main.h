@@ -5,7 +5,7 @@
 
 int _putchar(char c);
 
-void print_square(int n);
+void print_triangle(int n);
 
 #endif /* MAIN_H */
 
